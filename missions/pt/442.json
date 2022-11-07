@@ -1,0 +1,12 @@
+{
+ "missionId": "442",
+ "missionName": "Hematemeses",
+ "requirements": [
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "version": "247356457240781308894086622826341691293",
+ "credits": "750"
+}
