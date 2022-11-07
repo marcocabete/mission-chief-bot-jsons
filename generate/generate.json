@@ -193,7 +193,9 @@
 		"poliisiasemat",
 		"ambulanssiasemat",
 		"huoltolaajennukset",
-		"paloasemat"
+		"paloasemat",
+		"Unité nautique requise",
+		"nautique requise"
 	],
 	"replace": [
 		"\n",
