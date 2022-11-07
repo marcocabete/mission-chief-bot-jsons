@@ -1,4 +1,31 @@
 [{
+		"id": 7,
+		"caption": "Water Tanker",
+		"coins": 25,
+		"credits": 17300,
+		"minpersonnel": 1,
+		"maxpersonnel": 3,
+		"water": 3000
+	},
+	{
+		"id": 64,
+		"caption": "Foam Tender",
+		"coins": 15,
+		"credits": 35000,
+		"minpersonnel": 2,
+		"maxpersonnel": 3,
+		"foam": 6500
+	},
+	{
+		"id": 65,
+		"caption": "Foam Trailer",
+		"coins": 10,
+		"credits": 10000,
+		"minpersonnel": 0,
+		"maxpersonnel": 0,
+		"foam": 650
+	},
+	{
 		"id": 0,
 		"caption": "Type 1 fire engine",
 		"coins": 25,
@@ -57,15 +84,6 @@
 		"credits": 11860,
 		"minpersonnel": 1,
 		"maxpersonnel": 3
-	},
-	{
-		"id": 7,
-		"caption": "Water Tanker",
-		"coins": 25,
-		"credits": 17300,
-		"minpersonnel": 1,
-		"maxpersonnel": 3,
-		"water": 3000
 	},
 	{
 		"id": 8,
@@ -531,24 +549,6 @@
 		"credits": 15000,
 		"minpersonnel": 1,
 		"maxpersonnel": 2
-	},
-	{
-		"id": 64,
-		"caption": "Foam Tender",
-		"coins": 15,
-		"credits": 35000,
-		"minpersonnel": 2,
-		"maxpersonnel": 3,
-		"foam": 6500
-	},
-	{
-		"id": 65,
-		"caption": "Foam Trailer",
-		"coins": 10,
-		"credits": 10000,
-		"minpersonnel": 0,
-		"maxpersonnel": 0,
-		"foam": 650
 	},
 	{
 		"id": 66,
