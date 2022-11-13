@@ -202,9 +202,8 @@
 		"posiadany personel",
 		"Oddziały Prewencji Policji",
 		"posterunki policji",
-		"posiadany personel"
-		
-		
+		"posiadany personel",
+		"stacje"
 	],
 	"replace": [
 		"\n",
