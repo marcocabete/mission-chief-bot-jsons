@@ -7,10 +7,6 @@
    "qty": "3"
   },
   {
-   "requirement": "slop lub slrr",
-   "qty": "1"
-  },
-  {
    "requirement": "cysterny z wodą",
    "qty": "1"
   },
@@ -19,6 +15,6 @@
    "qty": "1"
   }
  ],
- "credits": "1400",
- "version": "213517229650904741235708098231252824690"
+ "version": "334222438772764628877911719333873570726",
+ "credits": "1400"
 }

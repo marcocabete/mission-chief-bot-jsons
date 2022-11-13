@@ -3,6 +3,10 @@
  "missionName": "Awaryjne lądowanie samolotu pasażerskiego na wodzie",
  "requirements": [
   {
+   "requirement": "stacje helikopterów policji",
+   "qty": "1"
+  },
+  {
    "requirement": "samochody pożarnicze",
    "qty": "12"
   },
@@ -35,6 +39,6 @@
    "qty": "40"
   }
  ],
- "credits": "32000",
- "version": "106281879810656214633364552800744083096"
+ "version": "262426748692214631854327672407407309093",
+ "credits": "32000"
 }

@@ -12,7 +12,7 @@
   },
   {
    "requirement": "slop lub slrr",
-   "qty": "2"
+   "qty": "1"
   },
   {
    "requirement": "samochody ratownictwa technicznego",
@@ -27,6 +27,6 @@
    "qty": "1"
   }
  ],
- "credits": "4000",
- "version": "228023227007820808197332514160300695316"
+ "version": "61236053447568047905017111415413050510",
+ "credits": "4000"
 }

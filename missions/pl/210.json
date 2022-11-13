@@ -3,6 +3,10 @@
  "missionName": "Napad na sklep w centrum handlowym",
  "requirements": [
   {
+   "requirement": "stacje helikopterów policji",
+   "qty": "1"
+  },
+  {
    "requirement": "samochody pożarnicze",
    "qty": "6"
   },
@@ -37,8 +41,12 @@
   {
    "requirement": "maks. pacjenci",
    "qty": "6"
+  },
+  {
+   "requirement": "personel spkp (w samochodzie spkp)",
+   "qty": "16"
   }
  ],
- "credits": "10000",
- "version": "236770426252491904873358096303280977481"
+ "version": "327863605246983551242261944999090646265",
+ "credits": "10000"
 }

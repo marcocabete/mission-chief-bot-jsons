@@ -3,6 +3,14 @@
  "missionName": "Zabezpieczenie procesu sądowego",
  "requirements": [
   {
+   "requirement": "oddziały prewencji policji",
+   "qty": "1"
+  },
+  {
+   "requirement": "posiadany personel",
+   "qty": "60x Szkolenie Personalne OPP"
+  },
+  {
    "requirement": "wydziały ruchu drogowego",
    "qty": "2"
   },
@@ -23,10 +31,14 @@
    "qty": "2"
   },
   {
+   "requirement": "personel",
+   "qty": "38x Szkolenie Personalne OPP"
+  },
+  {
    "requirement": "personel spkp (w samochodzie spkp)",
    "qty": "4"
   }
  ],
- "credits": "8440",
- "version": "124022093039249149504525692101913006082"
+ "version": "294614593203420005056962293801673441941",
+ "credits": "8440"
 }

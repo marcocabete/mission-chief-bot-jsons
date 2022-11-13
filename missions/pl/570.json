@@ -7,6 +7,10 @@
    "qty": "1"
   },
   {
+   "requirement": "posiadany personel",
+   "qty": "120x Szkolenie Personalne OPP"
+  },
+  {
    "requirement": "samochody pożarnicze",
    "qty": "2"
   },
@@ -27,10 +31,18 @@
    "qty": "1"
   },
   {
+   "requirement": "personel spkp (w samochodzie spkp)",
+   "qty": "4"
+  },
+  {
+   "requirement": "personel",
+   "qty": "80x Szkolenie Personalne OPP"
+  },
+  {
    "requirement": "maks. pacjenci",
    "qty": "3"
   }
  ],
- "credits": "9500",
- "version": "90350654156040949654033293898695995106"
+ "version": "12745964215832283985593194202024421935",
+ "credits": "10900"
 }

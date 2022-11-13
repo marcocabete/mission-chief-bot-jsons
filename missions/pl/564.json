@@ -3,6 +3,10 @@
  "missionName": "Zabezpieczenie przemówienia VIPa",
  "requirements": [
   {
+   "requirement": "stacje helikopterów policji",
+   "qty": "1"
+  },
+  {
    "requirement": "oddziały prewencji policji",
    "qty": "1"
   },
@@ -27,10 +31,14 @@
    "qty": "1"
   },
   {
+   "requirement": "personel spkp (w samochodzie spkp)",
+   "qty": "18"
+  },
+  {
    "requirement": "personel",
    "qty": "28x Szkolenie Personalne OPP"
   }
  ],
- "credits": "5800",
- "version": "269303553410739305847795274714862316289"
+ "version": "329807712087743887711965906269293744745",
+ "credits": "6600"
 }

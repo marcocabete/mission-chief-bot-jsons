@@ -8,17 +8,13 @@
   },
   {
    "requirement": "slop lub slrr",
-   "qty": "2"
+   "qty": "1"
   },
   {
    "requirement": "cysterny z wodą",
    "qty": "1"
-  },
-  {
-   "requirement": "radiowozy",
-   "qty": "1"
   }
  ],
- "credits": "2000",
- "version": "217686868182496037848501720949572143814"
+ "version": "193498396097112922857262830650112237976",
+ "credits": "2000"
 }

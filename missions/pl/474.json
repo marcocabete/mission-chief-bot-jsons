@@ -15,10 +15,14 @@
    "qty": "3"
   },
   {
+   "requirement": "ratownictwo wyskościowe",
+   "qty": "1"
+  },
+  {
    "requirement": "maks. pacjenci",
    "qty": "10"
   }
  ],
- "credits": "8700",
- "version": "131939567196674046484211893879133004362"
+ "version": "83740420900119872980603034590642542566",
+ "credits": "8700"
 }

@@ -31,6 +31,10 @@
    "qty": "1"
   },
   {
+   "requirement": "ratownictwo wyskościowe",
+   "qty": "4"
+  },
+  {
    "requirement": "radiowozy",
    "qty": "5"
   },
@@ -39,6 +43,6 @@
    "qty": "30"
   }
  ],
- "credits": "20300",
- "version": "161274980516846423092484312032066526633"
+ "version": "318883522365408121619220799295515435587",
+ "credits": "20300"
 }

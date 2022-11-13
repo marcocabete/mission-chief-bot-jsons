@@ -1,12 +1,12 @@
 {
  "missionId": "481",
- "missionName": "Oparzenie I stopnia",
+ "missionName": "Gorączka wywołana oparzeniem",
  "requirements": [
   {
    "requirement": "maks. pacjenci",
    "qty": "1"
   }
  ],
- "credits": "200",
- "version": "178082269609396828976937731983011358555"
+ "version": "54385438443678802338937894337125985929",
+ "credits": "200"
 }

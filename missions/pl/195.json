@@ -29,8 +29,12 @@
   {
    "requirement": "maks. pacjenci",
    "qty": "3"
+  },
+  {
+   "requirement": "personel spkp (w samochodzie spkp)",
+   "qty": "12"
   }
  ],
- "credits": "3700",
- "version": "208972691872425094411570175815299461249"
+ "version": "85311396197602973859883941402334695202",
+ "credits": "3700"
 }

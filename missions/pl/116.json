@@ -4,17 +4,13 @@
  "requirements": [
   {
    "requirement": "samochody pożarnicze",
-   "qty": "1"
-  },
-  {
-   "requirement": "slop lub slrr",
-   "qty": "1"
+   "qty": "2"
   },
   {
    "requirement": "maks. pacjenci",
    "qty": "2"
   }
  ],
- "credits": "1100",
- "version": "57576177958892217976645752265145536764"
+ "version": "247827375415473019919445279528349367361",
+ "credits": "1100"
 }

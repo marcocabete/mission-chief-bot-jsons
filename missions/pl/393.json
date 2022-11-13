@@ -1,6 +1,6 @@
 {
  "missionId": "393",
- "missionName": "Zawalenie mostu",
+ "missionName": "Zawalenie wiaduktu",
  "requirements": [
   {
    "requirement": "samochody pożarnicze",
@@ -27,6 +27,6 @@
    "qty": "8"
   }
  ],
- "credits": "9500",
- "version": "206974913844638421149849340131558667962"
+ "version": "142589550908208370837815345003275213800",
+ "credits": "9500"
 }

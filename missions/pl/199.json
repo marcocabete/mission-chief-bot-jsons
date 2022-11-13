@@ -3,6 +3,10 @@
  "missionName": "Zaginiona osoba w pobliżu wody",
  "requirements": [
   {
+   "requirement": "stacje helikopterów policji",
+   "qty": "1"
+  },
+  {
    "requirement": "helikopteru policyjnego",
    "qty": "1"
   },
@@ -27,6 +31,6 @@
    "qty": "1"
   }
  ],
- "credits": "5500",
- "version": "113605414325530505717067479635167634680"
+ "version": "107246601204001572104421705647904945911",
+ "credits": "5500"
 }
