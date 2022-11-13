@@ -196,7 +196,11 @@
 		"huoltolaajennukset",
 		"paloasemat",
 		"Unité nautique requise",
-		"nautique requise"
+		"nautique requise",
+		"stacje",
+		"Stacje"
+		
+		
 	],
 	"replace": [
 		"\n",
