@@ -1,0 +1,24 @@
+{
+ "missionId": "472",
+ "missionName": "Surfer savnes",
+ "requirements": [
+  {
+   "requirement": "lille kystrednings båd",
+   "qty": "2"
+  },
+  {
+   "requirement": "kystrednings helikopter",
+   "qty": "1"
+  },
+  {
+   "requirement": "påkrævede overfladeredderbiler",
+   "qty": "2"
+  },
+  {
+   "requirement": "maks. antal patienter",
+   "qty": "1"
+  }
+ ],
+ "version": "34677107878959751655309943510854982339",
+ "credits": "4080"
+}
