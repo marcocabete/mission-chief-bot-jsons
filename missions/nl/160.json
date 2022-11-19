@@ -1,12 +1,12 @@
 {
  "missionId": "160",
- "missionName": "502 Bad Gateway",
+ "missionName": "Brandende cadeautjes",
  "requirements": [
   {
-   "requirement": "ambulance",
-   "qty": 1
+   "requirement": "tankautospuiten",
+   "qty": "1"
   }
  ],
- "credits": "550",
- "version": "25060783005487728304515676635859030188"
+ "version": "45192075789377579601281668834292631217",
+ "credits": "550"
 }

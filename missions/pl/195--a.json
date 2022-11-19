@@ -3,6 +3,10 @@
  "missionName": "Wypadek więziennego autobusu",
  "requirements": [
   {
+   "requirement": "stacje helikopterów policji",
+   "qty": "1"
+  },
+  {
    "requirement": "wydziały ruchu drogowego",
    "qty": "4"
   },
@@ -37,8 +41,12 @@
   {
    "requirement": "maks. pacjenci",
    "qty": "3"
+  },
+  {
+   "requirement": "personel spkp (w samochodzie spkp)",
+   "qty": "12"
   }
  ],
- "credits": "4810",
- "version": "6187641536720051571241709693764116217"
+ "version": "138339187207482538358775097008109898963",
+ "credits": "4810"
 }

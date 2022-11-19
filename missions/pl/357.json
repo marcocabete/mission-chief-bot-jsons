@@ -3,6 +3,10 @@
  "missionName": "Niebezpieczeństwo w centrum handlowym",
  "requirements": [
   {
+   "requirement": "stacje helikopterów policji",
+   "qty": "1"
+  },
+  {
    "requirement": "wydziały ruchu drogowego",
    "qty": "1"
   },
@@ -45,8 +49,12 @@
   {
    "requirement": "maks. pacjenci",
    "qty": "15"
+  },
+  {
+   "requirement": "personel spkp (w samochodzie spkp)",
+   "qty": "24"
   }
  ],
- "credits": "19000",
- "version": "245976067717437809072341498918188648654"
+ "version": "278190035385734668634948743952980766024",
+ "credits": "19000"
 }

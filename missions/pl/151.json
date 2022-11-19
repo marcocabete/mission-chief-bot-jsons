@@ -9,8 +9,12 @@
   {
    "requirement": "helikopteru policyjnego",
    "qty": "1"
+  },
+  {
+   "requirement": "personel spkp (w samochodzie spkp)",
+   "qty": "12"
   }
  ],
- "credits": "1250",
- "version": "247970114409106214529015037122026675116"
+ "version": "267946550663289955095656716661964630048",
+ "credits": "1250"
 }

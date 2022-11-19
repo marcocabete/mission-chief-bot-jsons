@@ -29,8 +29,12 @@
   {
    "requirement": "jednostki k-9",
    "qty": "1"
+  },
+  {
+   "requirement": "personel spkp (w samochodzie spkp)",
+   "qty": "4"
   }
  ],
- "credits": "12000",
- "version": "298574562832700054708350327079707971599"
+ "version": "91056721217205610453878010299980025869",
+ "credits": "12000"
 }

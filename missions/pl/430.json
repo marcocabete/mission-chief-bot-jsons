@@ -8,7 +8,7 @@
   },
   {
    "requirement": "slop lub slrr",
-   "qty": "8"
+   "qty": "5"
   },
   {
    "requirement": "samochody dowodzenia i łączności",
@@ -23,6 +23,6 @@
    "qty": "2"
   }
  ],
- "credits": "21500",
- "version": "94245713081239203019645299794881533600"
+ "version": "86483241170780652601854324028587725334",
+ "credits": "21500"
 }

@@ -1,12 +1,12 @@
 {
  "missionId": "227",
- "missionName": "502 Bad Gateway",
+ "missionName": "Jubileumsgäster stal tårta",
  "requirements": [
   {
-   "requirement": "ambulance",
-   "qty": 1
+   "requirement": "polisbilar",
+   "qty": "5"
   }
  ],
- "credits": "5000",
- "version": "166506712178289487722856620492731342478"
+ "version": "162025100297803640818627381195643160684",
+ "credits": "5000"
 }

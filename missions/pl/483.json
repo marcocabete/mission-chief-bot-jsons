@@ -3,6 +3,10 @@
  "missionName": "Napad na bank",
  "requirements": [
   {
+   "requirement": "stacje helikopterów policji",
+   "qty": "1"
+  },
+  {
    "requirement": "radiowozy",
    "qty": "10"
   },
@@ -19,10 +23,14 @@
    "qty": "2"
   },
   {
+   "requirement": "personel spkp (w samochodzie spkp)",
+   "qty": "24"
+  },
+  {
    "requirement": "maks. pacjenci",
    "qty": "5"
   }
  ],
- "credits": "12500",
- "version": "26225779256392646512380426653000693922"
+ "version": "154935502929479079844524734795047364091",
+ "credits": "12500"
 }

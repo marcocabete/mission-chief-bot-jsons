@@ -7,10 +7,6 @@
    "qty": "1"
   },
   {
-   "requirement": "slop lub slrr",
-   "qty": "1"
-  },
-  {
    "requirement": "radiowozy",
    "qty": "2"
   },
@@ -19,6 +15,6 @@
    "qty": "1"
   }
  ],
- "credits": "1200",
- "version": "331870681485392882566822310735293351841"
+ "version": "37761409086033575176517449599703098141",
+ "credits": "1200"
 }

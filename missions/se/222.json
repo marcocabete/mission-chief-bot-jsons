@@ -1,12 +1,16 @@
 {
  "missionId": "222",
- "missionName": "504 Gateway Time-out",
+ "missionName": "Stor brand orsakad av elfel på jubileumsfirande",
  "requirements": [
   {
-   "requirement": "ambulance",
-   "qty": 1
+   "requirement": "släckbilar",
+   "qty": "4"
+  },
+  {
+   "requirement": "brandbefäl",
+   "qty": "1"
   }
  ],
- "credits": "3000",
- "version": "145113580251417878673267527893881198323"
+ "version": "268792385666453153743926031491820725680",
+ "credits": "3000"
 }

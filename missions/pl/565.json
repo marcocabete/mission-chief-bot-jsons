@@ -3,6 +3,10 @@
  "missionName": "Rozległe zamieszki",
  "requirements": [
   {
+   "requirement": "stacje helikopterów policji",
+   "qty": "2"
+  },
+  {
    "requirement": "wydziały ruchu drogowego",
    "qty": "2"
   },
@@ -71,6 +75,10 @@
    "qty": "3"
   },
   {
+   "requirement": "personel spkp (w samochodzie spkp)",
+   "qty": "24"
+  },
+  {
    "requirement": "personel",
    "qty": "200x Szkolenie Personalne OPP"
   },
@@ -79,6 +87,6 @@
    "qty": "18"
   }
  ],
- "credits": "48000",
- "version": "260007057301463363085396342916361141791"
+ "version": "310087421509539363117233196316126416595",
+ "credits": "48000"
 }

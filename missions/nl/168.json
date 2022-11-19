@@ -1,12 +1,12 @@
 {
  "missionId": "168",
- "missionName": "502 Bad Gateway",
+ "missionName": "Verstikking in pepernoot",
  "requirements": [
   {
    "requirement": "ambulance",
    "qty": 1
   }
  ],
- "credits": "100",
- "version": "131244179403354412057192631562703577928"
+ "version": "324200968509328504204102253073724612386",
+ "credits": "100"
 }

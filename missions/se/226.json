@@ -1,12 +1,12 @@
 {
  "missionId": "226",
- "missionName": "504 Gateway Time-out",
+ "missionName": "Jubileumsgäster stal dekoration",
  "requirements": [
   {
-   "requirement": "ambulance",
-   "qty": 1
+   "requirement": "polisbilar",
+   "qty": "4"
   }
  ],
- "credits": "3000",
- "version": "202739089483489513600409126253246053323"
+ "version": "137561683591077548254978823127590957486",
+ "credits": "3000"
 }

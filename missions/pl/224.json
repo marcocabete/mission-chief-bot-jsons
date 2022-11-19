@@ -3,6 +3,10 @@
  "missionName": "Porwanie",
  "requirements": [
   {
+   "requirement": "stacje helikopterów policji",
+   "qty": "1"
+  },
+  {
    "requirement": "radiowozy",
    "qty": "3"
   },
@@ -17,8 +21,12 @@
   {
    "requirement": "maks. pacjenci",
    "qty": "2"
+  },
+  {
+   "requirement": "personel spkp (w samochodzie spkp)",
+   "qty": "6"
   }
  ],
- "credits": "2000",
- "version": "145897670006524827468006657620008203953"
+ "version": "119439795044088776459468453904446164082",
+ "credits": "2000"
 }

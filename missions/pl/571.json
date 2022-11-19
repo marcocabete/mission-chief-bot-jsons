@@ -3,8 +3,20 @@
  "missionName": "Średnie ekstremistyczne zamieszki",
  "requirements": [
   {
+   "requirement": "stacje helikopterów policji",
+   "qty": "1"
+  },
+  {
+   "requirement": "oddziały prewencji policji",
+   "qty": "2"
+  },
+  {
    "requirement": "rozbudowy o stanowisko dowodzenia",
    "qty": "1"
+  },
+  {
+   "requirement": "posiadany personel",
+   "qty": "180x Szkolenie Personalne OPP"
   },
   {
    "requirement": "samochody pożarnicze",
@@ -47,10 +59,18 @@
    "qty": "1"
   },
   {
+   "requirement": "personel spkp (w samochodzie spkp)",
+   "qty": "8"
+  },
+  {
+   "requirement": "personel",
+   "qty": "145x Szkolenie Personalne OPP"
+  },
+  {
    "requirement": "maks. pacjenci",
    "qty": "3"
   }
  ],
- "credits": "14900",
- "version": "8949082031016624794388018949910776326"
+ "version": "148661111304529526744603532109151133654",
+ "credits": "17100"
 }

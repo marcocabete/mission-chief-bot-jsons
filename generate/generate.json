@@ -5,6 +5,7 @@
 		"Požadované",
 		"Se necesitan",
 		"Potrzeba",
+		"Potrzebne",
 		"Påkrævede",
 		"påkrævet",
 		"necesare",
@@ -195,7 +196,14 @@
 		"huoltolaajennukset",
 		"paloasemat",
 		"Unité nautique requise",
-		"nautique requise"
+		"nautique requise",
+		"stacje",
+		"Stacje",
+		"posiadany personel",
+		"Oddziały Prewencji Policji",
+		"posterunki policji",
+		"posiadany personel",
+		"stacje"
 	],
 	"replace": [
 		"\n",
@@ -219,6 +227,7 @@
 		"Benötigte",
 		"påkrævede",
 		"Potrzeba",
+		"Potrzebne",
 		"Se necesitan",
 		"Požadované",
 		"Wymaganych radiowozów",
