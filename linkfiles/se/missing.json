@@ -66,5 +66,7 @@
 	"ambulanshelikopter": [9],
 	"trafikpoliser": [39],
 	"polishästar": [24],
-	"polishäst": [24]
+	"polishäst": [24],
+	 "ambulansledningsfordon": [31],
+ 	"ambulance": [5]
 }
