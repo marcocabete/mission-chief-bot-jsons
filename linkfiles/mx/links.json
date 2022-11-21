@@ -9,7 +9,8 @@
  "camiones cisterna": [6],
 "furgones de útiles varios": [4],
  "ambulance": [5],
- "patrol car": [10],
- "coches patrulla": [10],
- "ambulancia": [5]
+ "ambulancia": [5],
+ "ambulancias": [5],
+ "patrol car": [8],
+ "coches patrulla":[8]
 }
