@@ -67,5 +67,10 @@
 	"polishästar": [24],
 	"polishäst": [24],
 	"ambulansledningsfordon": [31],
- 	"ambulance": [5]
+ 	"ambulance": [5],
+	"högfartsfartyg": [45],
+	"övervakningsfartyg": [47],
+	"miljöfartyg": [46],
+	"pråm": [50],
+	"svävare": [49]
 }
