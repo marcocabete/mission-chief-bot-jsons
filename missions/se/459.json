@@ -1,0 +1,12 @@
+{
+ "missionId": "459",
+ "missionName": "Sjöfylleri",
+ "requirements": [
+  {
+   "requirement": "högfartsfartyg",
+   "qty": "1"
+  }
+ ],
+ "version": "271595080954417636584795599971977554914",
+ "credits": "5500"
+}

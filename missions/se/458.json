@@ -1,0 +1,12 @@
+{
+ "missionId": "458",
+ "missionName": "Kontroll",
+ "requirements": [
+  {
+   "requirement": "högfartsfartyg",
+   "qty": "1"
+  }
+ ],
+ "version": "23514175587245102757036635951791914716",
+ "credits": "400"
+}
