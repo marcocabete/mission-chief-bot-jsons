@@ -4,7 +4,7 @@
  "requirements": [
   {
    "requirement": "streifenwagen",
-   "qty": "4"
+   "qty": "8"
   },
   {
    "requirement": "lebefkw",
@@ -29,7 +29,11 @@
   {
    "requirement": "funkstreifenwagen (dienstgruppenleitung)",
    "qty": "1"
-  }
+  },
+  {
+    "requirement": "polizeimotorrad",
+    "qty": "4"
+   }
  ],
  "credits": "7400",
  "version": "212164179370013132378457825400118105669"

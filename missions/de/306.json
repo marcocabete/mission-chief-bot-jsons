@@ -4,7 +4,7 @@
  "requirements": [
   {
    "requirement": "streifenwagen",
-   "qty": "8"
+   "qty": "16"
   },
   {
    "requirement": "wasserwerfer",
@@ -29,7 +29,11 @@
   {
    "requirement": "löschfahrzeuge",
    "qty": "2"
-  }
+  },
+  {
+    "requirement": "polizeimotorrad",
+    "qty": "4"
+   }
  ],
  "credits": "8000",
  "version": "223079408958718212369008776641654503651"

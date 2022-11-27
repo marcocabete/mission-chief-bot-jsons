@@ -8,7 +8,7 @@
   },
   {
    "requirement": "streifenwagen",
-   "qty": "3"
+   "qty": "5"
   },
   {
    "requirement": "grukw",
@@ -21,7 +21,11 @@
   {
    "requirement": "fükw",
    "qty": "1"
-  }
+  },
+  {
+    "requirement": "polizeimotorrad",
+    "qty": "1"
+   }
  ],
  "credits": "5000",
  "version": "95826404040670846783870816986258294439"

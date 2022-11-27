@@ -28,8 +28,16 @@
   },
   {
    "requirement": "streifenwagen",
-   "qty": "5"
-  }
+   "qty": "9"
+  },
+  {
+    "requirement": "polizeimotorrad",
+    "qty": "4"
+   },
+   {
+     "requirement": "gefkw",
+     "qty": "1"
+    }
  ],
  "credits": "12000",
  "version": "40658487727239825525100924706138326802"

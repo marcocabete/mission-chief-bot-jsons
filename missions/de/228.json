@@ -4,8 +4,12 @@
  "requirements": [
   {
    "requirement": "streifenwagen",
-   "qty": "2"
-  }
+   "qty": "4"
+  },
+  {
+    "requirement": "polizeimotorrad",
+    "qty": "2"
+   }
  ],
  "credits": "2000",
  "version": "254541984381634332963778758878288206769"

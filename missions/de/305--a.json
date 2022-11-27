@@ -36,12 +36,16 @@
   },
   {
    "requirement": "streifenwagen",
-   "qty": "5"
+   "qty": "11"
   },
   {
    "requirement": "funkstreifenwagen (dienstgruppenleitung)",
    "qty": "1"
-  }
+  },
+  {
+    "requirement": "polizeimotorrad",
+    "qty": "4"
+   }
  ],
  "credits": "13400",
  "version": "2564262726668905789633464598573523822"
