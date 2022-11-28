@@ -1,0 +1,16 @@
+{
+ "missionId": "228/a",
+ "missionName": "Absicherung Musikumzug",
+ "requirements": [
+  {
+   "requirement": "streifenwagen",
+   "qty": "4"
+  },
+  {
+   "requirement": "polizeimotorräder",
+   "qty": "2"
+  }
+ ],
+ "version": "166139672802207019827217367884936699852",
+ "credits": "2570"
+}

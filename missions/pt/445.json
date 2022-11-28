@@ -1,0 +1,20 @@
+{
+ "missionId": "445",
+ "missionName": "Assalto numa paragem de autocarro",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "3"
+  },
+  {
+   "requirement": "equipas operacionais cinotécnicas necessárias:",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "2"
+  }
+ ],
+ "version": "195757851296178762298503952521662185512",
+ "credits": "3125"
+}

@@ -1,0 +1,48 @@
+{
+ "missionId": "304/ab",
+ "missionName": "Angemeldete Demonstration - Gefahrenpotential",
+ "requirements": [
+  {
+   "requirement": "rtw",
+   "qty": "3"
+  },
+  {
+   "requirement": "streifenwagen",
+   "qty": "10"
+  },
+  {
+   "requirement": "grukw",
+   "qty": "6"
+  },
+  {
+   "requirement": "lebefkw",
+   "qty": "3"
+  },
+  {
+   "requirement": "fükw",
+   "qty": "1"
+  },
+  {
+   "requirement": "löschfahrzeuge",
+   "qty": "1"
+  },
+  {
+   "requirement": "wasserwerfer",
+   "qty": "3"
+  },
+  {
+   "requirement": "dhufükw",
+   "qty": "2"
+  },
+  {
+   "requirement": "funkstreifenwagen (dienstgruppenleitung)",
+   "qty": "1"
+  },
+  {
+   "requirement": "polizeimotorräder",
+   "qty": "4"
+  }
+ ],
+ "version": "190411258333308791538675948415156247489",
+ "credits": "8040"
+}
