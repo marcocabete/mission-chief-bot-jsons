@@ -1,0 +1,16 @@
+{
+ "missionId": "484",
+ "missionName": "223 Laitonta toimintaa harjoittava valaanpyyntialus",
+ "requirements": [
+    {
+        "requirement": "rvl partiovene",
+        "qty": "2"
+      },
+      {
+        "requirement": "rvl rannikkovartiovene",
+        "qty": "1"
+      }
+ ],
+ "version": "240645966111783915408938797735883613144",
+ "credits": "8000"
+}
