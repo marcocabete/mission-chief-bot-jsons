@@ -21,6 +21,7 @@
 	"max. patients": [5],
 	"mobile command vehicle": [11],
 	"mobile command vehicles": [11],
+	"mcv or ses mobile command": [11,41],
 	"mounted police": [22],
 	"paramedic supervisor": [23],
 	"police car": [8, 16],
@@ -52,5 +53,7 @@
 	"riot police group vehicles": [35],
 	"riot police suvs": [34],
 	"riot police equipment vehicles": [36],
-	"senior sergeants": [37]
+	"senior sergeants": [37],
+	"ses storm trailer": [42],
+   	"mvr quad": [38]
 }
