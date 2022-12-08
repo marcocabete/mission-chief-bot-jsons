@@ -1,0 +1,32 @@
+{
+ "missionId": "602",
+ "missionName": "Poszukiwania osoby na otwartym terenie",
+ "requirements": [
+  {
+   "requirement": "samochody pożarnicze",
+   "qty": "5"
+  },
+  {
+   "requirement": "slop lub slrr",
+   "qty": "3"
+  },
+  {
+   "requirement": "radiowozy",
+   "qty": "2"
+  },
+  {
+   "requirement": "samochody poszukiwawczo - ratownicze",
+   "qty": "2"
+  },
+  {
+   "requirement": "psy ratownicze",
+   "qty": "4"
+  },
+  {
+   "requirement": "maks. pacjenci",
+   "qty": "1"
+  }
+ ],
+ "version": "129569685327508112791958939661753091195",
+ "credits": "14000"
+}

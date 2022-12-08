@@ -1,0 +1,32 @@
+{
+ "missionId": "534",
+ "missionName": "Police Search",
+ "requirements": [
+    {
+        "requirement": "ses vehicle",
+        "qty": "2"
+       },
+  {
+   "requirement": "boats",
+   "qty": "2"
+  },
+  {
+   "requirement": "major rescue or ses rescue vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "mcv or ses mobile command",
+   "qty": "1"
+  },
+  {
+   "requirement": "ses storm trailer",
+   "qty": "1"
+  },
+  {
+   "requirement": "mvr quad",
+   "qty": "1"
+  }
+ ],
+ "version": "229073244753598826763766152545011100022",
+ "credits": "1250"
+}

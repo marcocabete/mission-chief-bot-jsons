@@ -1,0 +1,12 @@
+{
+ "missionId": "476",
+ "missionName": "Prasklá pneumatika na podvozku letadla",
+ "requirements": [
+  {
+   "requirement": "letištní speciály",
+   "qty": "2"
+  }
+ ],
+ "version": "183645609053378973882697632800912367635",
+ "credits": "700"
+}
