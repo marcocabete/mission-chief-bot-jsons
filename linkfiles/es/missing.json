@@ -28,5 +28,6 @@
     "bombas accionadas por motor": [24],
     "vehículos de materiales peligrosos": [7],
     "coche patrulla": [8],
-    "hazmat": [7]
+    "hazmat": [7],
+    "ambulancia": [5]
 }
