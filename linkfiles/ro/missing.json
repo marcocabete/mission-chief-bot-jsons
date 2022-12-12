@@ -6,5 +6,9 @@
 "max. pacien\u021bi" : [5],
 "cisterne de ap\u0103 necesare" : [6],
 "vehicule pentru transportul m\u0103rfurilor periculoase necesare": [7],
-"ma\u0219ini de poli\u021bie necesare" : [8]
+"ma\u0219ini de poli\u021bie necesare" : [8],
+"mașină de patrulare": [8],
+"mașină de pompieri": [0, 1, 12, 13],
+"l de apă":[0, 1, 12, 6],
+"mașini de pompieri": [0, 1, 12, 13]
 }
