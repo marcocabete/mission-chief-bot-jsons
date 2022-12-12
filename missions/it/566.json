@@ -1,0 +1,12 @@
+{
+ "missionId": "566",
+ "missionName": "Imbarcazione alla Fonda in Area Protetta",
+ "requirements": [
+  {
+   "requirement": "battello litoraneo",
+   "qty": "1"
+  }
+ ],
+ "version": "207959553014074264902343826678890089201",
+ "credits": "1200"
+}

@@ -1,0 +1,12 @@
+{
+ "missionId": "476",
+ "missionName": "Båd for anker i et beskyttet område",
+ "requirements": [
+  {
+   "requirement": "lille kystrednings båd",
+   "qty": "1"
+  }
+ ],
+ "version": "258798309913198634406742685169704086282",
+ "credits": "1200"
+}
