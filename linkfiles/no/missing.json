@@ -22,5 +22,6 @@
   "tilhengerpumper": [36],
   "politihelikoptere": [11],
   "innsatsstøttebil": [17],
-  "brannbil": [0, 1, 10, 18, 21]
+  "brannbil": [0, 1, 10, 18, 21],
+  "patruljebiler": [8, 14]
 }
