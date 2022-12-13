@@ -19,9 +19,13 @@
    "qty": "1"
   },
   {
-   "requirement": "maximale patientenanzahl",
-   "qty": "3"
-  }
+    "requirement": "rtw",
+    "qty": "1"
+   },
+   {
+    "requirement": "nef",
+    "qty": "1"
+   }
  ],
  "version": "300730568790058365321520925998468154159",
  "credits": "1700"
