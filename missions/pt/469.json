@@ -1,0 +1,20 @@
+{
+ "missionId": "469",
+ "missionName": "Navio baleeiro a executar operações ilegais",
+ "requirements": [
+  {
+   "requirement": "botes de patrulhamento necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "botes de resgate necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "grupos de ações táticas necessários:",
+   "qty": "1"
+  }
+ ],
+ "version": "267122042181652230418714848197674124342",
+ "credits": "8000"
+}

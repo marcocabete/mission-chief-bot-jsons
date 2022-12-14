@@ -1,0 +1,32 @@
+{
+ "missionId": "455",
+ "missionName": "Autocarro Submerso",
+ "requirements": [
+  {
+   "requirement": "carros de patrulha necessários:",
+   "qty": "3"
+  },
+  {
+   "requirement": "embarcações de reconhecimento, socorro e transporte necessárias:",
+   "qty": "3"
+  },
+  {
+   "requirement": "veículos de apoio a merguladores necessários:",
+   "qty": "3"
+  },
+  {
+   "requirement": "veículos de combate a incêndios necessários:",
+   "qty": "5"
+  },
+  {
+   "requirement": "veículos de comando tático necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "15"
+  }
+ ],
+ "version": "326045821212556720175003079282649993998",
+ "credits": "3000"
+}

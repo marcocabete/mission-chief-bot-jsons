@@ -1,0 +1,17 @@
+{
+ "missionId": "465",
+ "missionName": "Contrabando através de barco",
+ "requirements": [
+
+  {
+   "requirement": "botes de resgate necessários:",
+   "qty": "2"
+  },
+  {
+   "requirement": "grupos de ações táticas necessários:",
+   "qty": "1"
+  }
+ ],
+ "version": "206701177254560091971107829564745543093",
+ "credits": "4000"
+}

@@ -1,0 +1,22 @@
+{
+ "missionId": "456",
+ "missionName": "Acidente de Mergulho",
+ "requirements": [
+  
+  
+  {
+   "requirement": "embarcações de reconhecimento, socorro e transporte necessárias:",
+   "qty": "1"
+  },
+  {
+   "requirement": "veículos de apoio a merguladores necessários:",
+   "qty": "1"
+  },
+  {
+   "requirement": "máx. de pacientes:",
+   "qty": "1"
+  }
+ ],
+ "version": "255604762249627875888065778415777432085",
+ "credits": "1000"
+}
