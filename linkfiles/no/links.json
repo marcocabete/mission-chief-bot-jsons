@@ -21,5 +21,7 @@
   "skum tankbiler": [35],
   "tilhengerpumper": [36],
   "politihelikoptere": [11],
-  "innsatsstøttebil": [17]
+  "innsatsstøttebil": [17],
+  "utrykningspolitibil": [22, 23],
+  "for utrykningspolitibil": [22, 23]
 }
