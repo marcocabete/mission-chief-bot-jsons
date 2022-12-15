@@ -1,6 +1,6 @@
 {
-"p\u00e5kr\u00e6vede brandbiler": [0,1],
-"brandbiler": [0,1],
+"p\u00e5kr\u00e6vede brandbiler": [0,1,12],
+"brandbiler": [0,1,12],
 "p\u00e5kr\u00e6vede stigevogn" : [2],
 "stigevogn" : [2],
 "p\u00e5kr\u00e6vede indsatsleder-k\u00f8ret\u00f8j" : [3],
@@ -14,7 +14,7 @@
 "rednings trappe": [27],
 "crash tender påkrævet": [26],
 "rednings trappe påkrævet": [27],
-"brandbil": [0],
+"brandbil": [0,12],
 "patruljebil": [8],
 "patruljevogn": [8],
 "ambulance": [5],
@@ -44,5 +44,9 @@
 "indsatsleder brand": [3],
 "Ledelses- og kommunikationsmodul": [11],
 "ledelses- og kommunikationsmodul": [11],
-"Indsatsleder Brand.": [3]
+"Indsatsleder Brand.": [3],
+"l. Vand.": [6, 1],
+"Indsatsleder Brand.": [3],
+"vandtankvogne": [6],
+"l Vand": [6, 1]
 }
