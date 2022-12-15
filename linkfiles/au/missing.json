@@ -58,5 +58,10 @@
 	"riot police equipment vehicle": [36],
 	"senior sergeant": [37],
 	"ses storm trailer": [42],
-   	"mvr quad": [38]
+   	"mvr quad": [38],
+	"MRV or SES Rescue Truck": [4, 12, 40],
+        "mrv or ses rescue": [4, 12, 40],
+        "mrv or ses rescue truck": [4, 12, 40],
+        "mrv or ses rescue trucks": [4, 12, 40],
+        "MRV or SES Rescue Trucks": [4, 12, 40]
 }
