@@ -1,0 +1,27 @@
+{
+ "missionId": "816",
+ "missionName": "Medium Rapid Wildfire",
+ "requirements": [
+  
+  
+  
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "wildland mccs",
+   "qty": "1"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "2"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "2"
+  }
+ ],
+ "version": "110662449931915454746319496993372747434",
+ "credits": "2900"
+}

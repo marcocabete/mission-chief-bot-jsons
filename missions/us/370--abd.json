@@ -1,0 +1,31 @@
+{
+ "missionId": "370/abd",
+ "missionName": "Large Wildfire",
+ "requirements": [
+  
+  
+  
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "4"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "6"
+  },
+  {
+   "requirement": "fire investigation units",
+   "qty": "2"
+  },
+  {
+   "requirement": "wildland mccs",
+   "qty": "1"
+  }
+ ],
+ "version": "217740444308212108123814906626230178508",
+ "credits": "9900"
+}

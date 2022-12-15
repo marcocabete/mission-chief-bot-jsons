@@ -1,0 +1,48 @@
+{
+ "missionId": "395/abcd",
+ "missionName": "Major Forest Fire",
+ "requirements": [
+  
+  
+  
+  
+  {
+   "requirement": "wildland fire engines",
+   "qty": "10"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "7"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "airborne firefighting vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "4"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "4"
+  },
+  {
+   "requirement": "fire investigation units",
+   "qty": "2"
+  },
+  {
+   "requirement": "wildland lead planes",
+   "qty": "1"
+  },
+  {
+   "requirement": "wildland mccs",
+   "qty": "1"
+  }
+ ],
+ "version": "135328962485563936461997634044823703890",
+ "credits": "18300"
+}

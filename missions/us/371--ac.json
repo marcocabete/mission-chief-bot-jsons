@@ -1,0 +1,34 @@
+{
+ "missionId": "371/ac",
+ "missionName": "Major Wildfire",
+ "requirements": [
+  
+  
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "3"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "8"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "8"
+  },
+  {
+   "requirement": "fire investigation units",
+   "qty": "2"
+  }
+ ],
+ "version": "157087149090138610123735865169613389439",
+ "credits": "14000"
+}

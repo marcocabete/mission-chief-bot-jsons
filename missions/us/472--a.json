@@ -1,0 +1,22 @@
+{
+ "missionId": "472/a",
+ "missionName": "Large wildfire cleanup",
+ "requirements": [
+  
+  
+  {
+   "requirement": "wildland fire engines",
+   "qty": "7"
+  },
+  {
+   "requirement": "firetrucks",
+   "qty": "2"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "1"
+  }
+ ],
+ "version": "286431540441013368279655749428564393935",
+ "credits": "6500"
+}

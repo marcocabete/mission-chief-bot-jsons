@@ -1,0 +1,21 @@
+{
+ "missionId": "370/ac",
+ "missionName": "Large Wildfire",
+ "requirements": [
+  
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "4"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "6"
+  }
+ ],
+ "version": "34276180444157806073098475715780105971",
+ "credits": "13000"
+}

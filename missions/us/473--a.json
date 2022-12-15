@@ -1,0 +1,26 @@
+{
+ "missionId": "473/a",
+ "missionName": "Major wildfire cleanup",
+ "requirements": [
+  
+  
+  {
+   "requirement": "wildland fire engines",
+   "qty": "10"
+  },
+  {
+   "requirement": "firetrucks",
+   "qty": "4"
+  },
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "2"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "1"
+  }
+ ],
+ "version": "113628801255459140262283499557058066048",
+ "credits": "12500"
+}

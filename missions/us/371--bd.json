@@ -1,0 +1,39 @@
+{
+ "missionId": "371/bd",
+ "missionName": "Major Wildfire",
+ "requirements": [
+  
+  
+  
+  {
+   "requirement": "battalion chief vehicles",
+   "qty": "3"
+  },
+  {
+   "requirement": "mobile command vehicles",
+   "qty": "0"
+  },
+  {
+   "requirement": "water tankers",
+   "qty": "8"
+  },
+  {
+   "requirement": "police cars",
+   "qty": "2"
+  },
+  {
+   "requirement": "wildland fire engines",
+   "qty": "8"
+  },
+  {
+   "requirement": "smoke jumpers (in smoke jumper planes)",
+   "qty": "40"
+  },
+  {
+   "requirement": "wildland mccs",
+   "qty": "1"
+  }
+ ],
+ "version": "23012096865280067503333660737512325901",
+ "credits": "15900"
+}
