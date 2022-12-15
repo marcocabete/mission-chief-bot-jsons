@@ -29,8 +29,16 @@
   {
    "requirement": "gw-gefahrgut",
    "qty": "1"
+  },
+  {
+   "requirement": "gw-öl",
+   "qty": "1"
+  },
+  {
+   "requirement": "fustw",
+   "qty": "2"
   }
  ],
  "credits": "3720",
- "version": "88700787201413243859400091451851583375"
+ "version": "88700787201413243859400091451851583235"
 }
