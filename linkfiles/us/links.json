@@ -165,5 +165,8 @@
 	"wildland fire vehicle missing": [30, 31, 32, 38, 39],
 	"wildland fire vehicle": [30, 31, 32, 38, 39],
 	"wildland fire vehicles": [30, 31, 32, 38, 39],
-	"wildland fire": [30, 31, 32, 38, 39]
+	"wildland fire": [30, 31, 32, 38, 39],
+	"wildland mccs": [74],
+	"wildland lead planes": [75],
+	"smoke jumpers (in smoke jumper planes)": [76]
 }

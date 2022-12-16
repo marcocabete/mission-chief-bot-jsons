@@ -613,5 +613,47 @@
 		"credits": 50000,
 		"minpersonnel": 0,
 		"maxpersonnel": 0
-	}
+	},
+ 	{
+  		"id": 74,
+  		"caption": "Wildland MCC",
+  		"coins": 20,
+  		"credits": 20000,
+  		"minpersonnel": 6,
+  		"maxpersonnel": 6
+ 	},
+ 	{
+  		"id": 75,
+  		"caption": "Wildland Lead Plane",
+  		"coins": 20,
+  		"credits": 750000,
+  		"minpersonnel": 3,
+  		"maxpersonnel": 3
+ 	},
+ 	{
+  		"id": 76,
+  		"caption": "Smoke Jumper Plane",
+ 	 	"coins": 20,
+  		"credits": 500000,
+  		"minpersonnel": 10,
+  		"maxpersonnel": 20
+ 	},
+ 	{
+  		"id": 77,
+  		"caption": "Tanker Semi Truck Trailer",
+  		"coins": 15,
+		"credits": 20000,
+  		"minpersonnel": 0,
+  		"maxpersonnel": 0,
+  		"water": 10000,
+ 	},
+	{
+  		"id": 78,
+  		"caption": "Tanker Trailer",
+  		"coins": 10,
+  		"credits": 5000,
+  		"minpersonnel": 0,
+  		"maxpersonnel": 0,
+  		"water": 1000,
+ 	}
 ]
