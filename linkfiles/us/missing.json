@@ -165,5 +165,7 @@
 	"wildland fire vehicle missing": [30, 31, 32, 38, 39],
 	"wildland fire vehicle": [30, 31, 32, 38, 39],
 	"wildland fire vehicles": [30, 31, 32, 38, 39],
-	"wildland fire": [30, 31, 32, 38, 39]
+	"wildland fire": [30, 31, 32, 38, 39],
+	"smoke jumpers": [76],
+        "hotshot": [30,38,31,39,32,76]
 }
